@@ -165,7 +165,7 @@ setMessages((prev) => [...prev, userMessage, thinkingMessage]);
       keyboardVerticalOffset={0}
       >
       <View style={styles.header}>
-        <Text style={styles.title}>くるいどり会話🤪</Text>
+        <Text style={styles.title}>くるいどりzeta🤪</Text>
 
         <Pressable style={styles.clearButton} onPress={clearMessages}>
           <Text style={styles.clearButtonText}>削除</Text>
